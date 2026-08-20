@@ -1,5 +1,5 @@
 <h1 align="center">See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs</h1>
- 
+
 <p align="center">
   <a href="https://arxiv.org/abs/2602.21497"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b" alt="Paper"></a>
   <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_See_It_Say_It_Sorted_An_Iterative_Training-Free_Framework_for_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-2026-blue" alt="CVPR 2026"></a>
